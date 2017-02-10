@@ -11,31 +11,70 @@ body {
   text-align: center;
 }
 
-em {
-  font-weight: bold;
-  text-decoration: underline;
-  font-style: normal;
+.gen-ed {
+  text-align: center;
+  border: 1px solid black;
+  width: 360px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: lightblue;
+}
+
+
+.gen-ed p {
+  padding: 5px;
+  width: 350px;
+  text-align: left;
 }
 
 .container {
   background-color: white;
 }
 
-.jobs {
-  border: solid 1px black;
+.video-games img {
+  float: right;
+  padding: 10px;
+}
+
+.video-games {
+  padding-left: 140px;
+
+}
+
+.netflix p {
+  padding: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.tv-movie h4 {
+  text-align: left;
+  padding-left: 30px;
+
+}
+
+.free-time h3 {
+  border: 1px solid black;
+  width: 140px;
+  background-color: lightblue;
 }
 
 .interests {
   width: 300px;
 }
 
-.seasons p{
-  padding-left: 2px;
+.jobs {
+  border: 1px solid black;
+  background-color: lightblue;
+  margin-left: 2px;
+  margin-right: 2px;
+  width: 32.7%;
+  margin-top: 10px;
 }
 
-.americorps {
-  border: solid 1px salmon;
-  margin: 2px;
+.jobs p {
+  padding: 1px;
 }
 
 .intro {
@@ -52,6 +91,16 @@ em {
 
 }
 
+.intro a {
+  margin-bottom: 140px;
+
+}
+
+.school {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 .music {
   width: 400px;
   float: right;
@@ -59,7 +108,6 @@ em {
 
 .test {
   border: solid 1px black;
-  padding: 2px;
 
 }
 
@@ -79,7 +127,7 @@ em {
   margin-bottom: 10px;
   width: 300px;
   border: solid 2px black;
-  margin-right: 20px;
+  margin-right: px;
 }
 
 .metwo {
@@ -87,9 +135,12 @@ em {
   margin-bottom: 10px;
   width: 300px;
   border: solid 2px black;
-  margin-left: 20px;
+  margin-left: px;
 }
 
+.tv {
+  margin-left: 200px;
+}
 
 .proj {
   border: solid 1px black;
@@ -107,6 +158,6 @@ em {
 .proj p {
   text-align: center;
   width: auto;
-  height: 100%;
+  height: auto;
   padding: 5px;
 }
