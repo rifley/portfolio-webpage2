@@ -12,6 +12,10 @@ em {
   border: solid 1px black;
 }
 
+.interests {
+  width: 300px;
+}
+
 .seasons p{
   padding-left: 2px;
 }
