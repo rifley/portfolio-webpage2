@@ -43,14 +43,22 @@ em {
   font-family: fantasy;
 }
 
-.intro img {
+
+.meone {
   opacity: 0.6;
   margin-bottom: 10px;
   width: 300px;
   border: solid 2px black;
-  margin-right: 400px;
+  margin-right: 20px;
 }
 
+.metwo {
+  opacity: 0.6;
+  margin-bottom: 10px;
+  width: 300px;
+  border: solid 2px black;
+  margin-left: 20px;
+}
 .first-webpage {
   text-align: center;
   border: solid 2px black;
